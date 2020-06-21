@@ -1,5 +1,7 @@
 ![](https://i.imgur.com/na4jsyy.png)
 
+![](https://i.imgur.com/vbd0XTC.png)
+
 # GitHub Amoled Dark 1.0
 
 Amoled Dark theme for GitHub - Browse GitHub in super night time mode.
