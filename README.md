@@ -4,7 +4,7 @@
 
 Amoled Dark theme for GitHub - Browse GitHub in super nighttime mode.
 
-Forked from [![Github Dark 2.0](https://github.com/cquanu/github-dark)]
+Forked from Github Dark 2.0![](https://github.com/cquanu/github-dark)
 
 [![GitHub Release](https://img.shields.io/github/release/cquanu/github-dark.svg)](https://github.com/cquanu/github-dark/releases) 
 [![License](https://img.shields.io/github/license/cquanu/github-dark.svg)](https://github.com/cquanu/github-dark/blob/master/LICENSE)
