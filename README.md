@@ -1,4 +1,4 @@
-[img]https://i.imgur.com/69knsK8.png[/img]
+![](https://i.imgur.com/69knsK8.png)
 
 # GitHub Amoled Dark 1.0
 
