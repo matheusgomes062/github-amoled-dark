@@ -19,7 +19,7 @@ Install a userstyle manager for your favorite browser:
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
 - [Safari (untested with usercss)](https://cascadea.app/)
 
-Visit [this page](chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.html?id=2) to automatically install the theme.
+Visit [this page](https://raw.githubusercontent.com/matheusgomes062/github-amoled-dark/master/github-dark.user.css) to automatically install the theme.
 
 ## Userstyles.org
 
