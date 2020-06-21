@@ -1,15 +1,17 @@
 /* ==UserStyle==
 
 * FORK *
-@name           Github Amoled Dark
-@namespace      github.com/matheusgomes062/github-amoled-dark
+@name           Github Amoled Dark v1.0
+@namespace      github.com/cquanu/github-dark
+@version        1.0
 @description    Github Amoled Dark Fork from the amoled-dark-github (https://github.com/matheusgomes062/github-dark)
 @author         Matheus Gomes
 @license        MIT
 
 ==/UserStyle== */
+
 @-moz-document domain("github.com") {
-  /** Github Actions Start Block **/
+/** Github Actions Start Block **/
   /* Colors */
 
   :root {
@@ -2606,9 +2608,6 @@
   .unstyled-members-count,
   .js-repositories-count {
     color: #fff;
-  }
-
-  .js-stat-label {
   }
 
   .note-emphasis {
