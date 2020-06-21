@@ -1,12 +1,12 @@
-![](https://i.imgur.com/69knsK8.png)
+![](https://i.imgur.com/na4jsyy.png)
 
 # GitHub Amoled Dark 1.0
 
-Amoled Dark theme for GitHub - Browse GitHub in super nighttime mode.
+Amoled Dark theme for GitHub - Browse GitHub in super night time mode.
 
 Forked from [Github Dark 2.0](https://github.com/cquanu/github-dark)
 
-[![GitHub Release](https://img.shields.io/github/release/cquanu/github-dark.svg)](https://github.com/cquanu/github-dark/releases) 
+[![GitHub Release (Dark 2.0)](https://img.shields.io/github/release/cquanu/github-dark.svg)](https://github.com/cquanu/github-dark/releases) 
 [![License](https://img.shields.io/github/license/cquanu/github-dark.svg)](https://github.com/cquanu/github-dark/blob/master/LICENSE)
 
 ## How to use
