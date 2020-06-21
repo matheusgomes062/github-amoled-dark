@@ -1,10 +1,14 @@
-![](https://cquanu.github.io/github-dark/preview.png)
+![](https://i.imgur.com/na4jsyy.png)
 
-# GitHub Dark 2.0
+![](https://i.imgur.com/vbd0XTC.png)
 
-Dark theme for GitHub - Browse GitHub in nighttime mode.
+# GitHub Amoled Dark 1.0
 
-[![GitHub Release](https://img.shields.io/github/release/cquanu/github-dark.svg)](https://github.com/cquanu/github-dark/releases) 
+Amoled Dark theme for GitHub - Browse GitHub in super night time mode.
+
+Forked from [Github Dark 2.0](https://github.com/cquanu/github-dark)
+
+[![GitHub Release (Dark 2.0)](https://img.shields.io/github/release/cquanu/github-dark.svg)](https://github.com/cquanu/github-dark/releases) 
 [![License](https://img.shields.io/github/license/cquanu/github-dark.svg)](https://github.com/cquanu/github-dark/blob/master/LICENSE)
 
 ## How to use
