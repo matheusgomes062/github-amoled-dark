@@ -1,15 +1,13 @@
 /* ==UserStyle==
-@name           GitHub Dark v2.6.3
-@namespace      github.com/cquanu/github-dark
-@version        2.6.24
-@description    GitHub Dark 2.0
-@author         Quan You, Tyler Thrailkill, Lance Jordan, Lexa Hall, Jared Allard, seanysean
-@license        MIT
 
 * FORK *
-    * Github Amoled Dark v1.0
-    * Fork made by Matheus Gomes
-    * Github Fork for the amoled-dark-github (https://github.com/matheusgomes062/github-dark)
+@name           Github Amoled Dark v1.0
+@namespace      github.com/cquanu/github-dark
+@version        1.0
+@description    Github Amoled Dark Fork from the amoled-dark-github (https://github.com/matheusgomes062/github-dark)
+@author         Matheus Gomes
+@license        MIT
+
 ==/UserStyle== */
 @-moz-document domain("github.com") {
   /** Github Actions Start Block **/
